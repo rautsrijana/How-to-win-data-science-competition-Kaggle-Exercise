@@ -1,0 +1,69 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/srijana/Downloads/Kaggle competition
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5f3cd5d8cbe174805b7dab1e92337c633af7fdba728b0bf8
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=5f3cd5d8cbe174805b7dab1e92337c633af7fdba728b0bf8
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | ERROR] The version of the Assignment List nbextension does not match the server extension; the nbextension version is 0.6.1 while the server version is 0.5.5. This can happen if you have recently upgraded nbgrader, and may cause this extension to not work correctly. To fix the problem, please see the nbgrader installation instructions: http://nbgrader.readthedocs.io/en/stable/user_guide/installation.html
+[NotebookApp | WARNING] Notebook Data_leakages.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 76da16cc-e543-40d5-93eb-4a17478cd4f6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76da16cc-e543-40d5-93eb-4a17478cd4f6
+[NotebookApp | INFO] Saving file at /Data_leakages.ipynb
+[NotebookApp | INFO] Starting buffering for 76da16cc-e543-40d5-93eb-4a17478cd4f6:7049903035D642789F074D2653ADAF77
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 76da16cc-e543-40d5-93eb-4a17478cd4f6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/srijana/Downloads/Kaggle competition
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=59f381f1ee7c8e6f4ceff2ac2de9b82ff6ce50af44c06b8f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=59f381f1ee7c8e6f4ceff2ac2de9b82ff6ce50af44c06b8f
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | ERROR] The version of the Assignment List nbextension does not match the server extension; the nbextension version is 0.6.1 while the server version is 0.5.5. This can happen if you have recently upgraded nbgrader, and may cause this extension to not work correctly. To fix the problem, please see the nbgrader installation instructions: http://nbgrader.readthedocs.io/en/stable/user_guide/installation.html
+[NotebookApp | WARNING] Notebook predict-future-sales(1).ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 931f61a6-5adb-444b-bb59-19479975642d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 931f61a6-5adb-444b-bb59-19479975642d
+[NotebookApp | WARNING] delete /submission.csv
+[NotebookApp | INFO] Saving file at /predict-future-sales(1).ipynb
+[NotebookApp | WARNING] Notebook predict-future-sales(1).ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 931f61a6-5adb-444b-bb59-19479975642d:C5111C3AFFAD4759AED5DA91688FC07A
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 931f61a6-5adb-444b-bb59-19479975642d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/srijana/Downloads/Kaggle competition
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5d348e317f9ec591899d18cc642cab757096d9c8cebb63a3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=5d348e317f9ec591899d18cc642cab757096d9c8cebb63a3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from 127.0.0.1
+[NotebookApp | ERROR] The version of the Assignment List nbextension does not match the server extension; the nbextension version is 0.6.1 while the server version is 0.5.5. This can happen if you have recently upgraded nbgrader, and may cause this extension to not work correctly. To fix the problem, please see the nbgrader installation instructions: http://nbgrader.readthedocs.io/en/stable/user_guide/installation.html
+[NotebookApp | WARNING] Notebook predict-future-sales(1).ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2c3fa457-39cc-4b8c-bf01-c3cf1454d769
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2c3fa457-39cc-4b8c-bf01-c3cf1454d769
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2c3fa457-39cc-4b8c-bf01-c3cf1454d769
